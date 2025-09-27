@@ -13,4 +13,8 @@ The goal is to identify sales patterns , understand how product attributes 🏷�
 
 ![blinkit_presenation](https://github.com/sonaliaruk/Blinkit-Analysis---SQL-Power-BI-/blob/main/Blinkit-Analysis%20presentation%20slides.pdf)
 
+# ⚙️ Tech Stack Used
 
+* Database: Mysql
+* Query Language: SQL
+* Data Vistualization Tool: Power Bi
